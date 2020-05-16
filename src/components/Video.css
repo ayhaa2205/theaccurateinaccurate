@@ -1,0 +1,23 @@
+.video {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.big{
+    height:50vh;
+}
+
+.iframe-video{
+    height: 50%;
+    width: 60%;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .big{
+        width: 70%;
+    }
+
+}
