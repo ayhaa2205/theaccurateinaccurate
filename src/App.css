@@ -5,7 +5,7 @@
 .logo {
     position: fixed;
     text-align: center;
-    font-size: 16px;
+    font-size: 17px;
     top: 0;
     padding: 20px 0 20px 0;
     left: 0;
@@ -20,11 +20,13 @@
 
 .section {
     min-height: 90vh;
+    width:95%;
+    margin: 0 auto;
 }
 
 .text {
     max-width: 700px;
-    font-size: 16px;
+    font-size: 17px;
     word-spacing: 2px;
     width: calc(100% - 40px);
 }
@@ -33,12 +35,12 @@
    text-align: center;
 }
 
-.text i{
+.chapter-link{
     font-size: 24px;
-    font-weight: normal;
+    font-style: italic;
 }
 
-.text i:hover{
+.chapter-link:hover{
     text-decoration: underline;
     cursor: pointer;
 }
@@ -69,7 +71,7 @@
 
 .navigation__button {
     border: none;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .navigation a:hover{

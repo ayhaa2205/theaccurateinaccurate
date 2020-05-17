@@ -17,9 +17,9 @@
 
 .carousel{
     height: 60vh;
-    margin-left: 40px;
-    margin-right: 40px;
-    width: calc(100% - 80px);
+    margin-left: 75px;
+    margin-right: 75px;
+    width: calc(100% - 150px);
 }
 
 .carousel__slider{
@@ -51,7 +51,7 @@
 }
 
 .carousel__info {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .carousel__info--right {

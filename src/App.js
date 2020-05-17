@@ -18,8 +18,14 @@ function App() {
      let tocArray=toc.split(" ");
      return tocArray.map(word=>{
          if(word.startsWith("#")){
-             let wordParsed =word.split("-").join(" ");
-             return <i>{wordParsed} </i>;
+             let section = word.substring(word.indexOf('[')+1, word.indexOf(']'));
+             let removedLinkWord=word.replace(/\[.*?\]/, "");
+             let wordParsed =removedLinkWord.split("-").join(" ");
+             return <Link className={"chapter-link"}
+                          spy={true} smooth={true}
+                          duration={800}
+                          onClick={() => setCurrentScrollIndex(section)}
+                          to={section}>{wordParsed} </Link>;
          }
          if(word==="\n"){
              return <br/>;
