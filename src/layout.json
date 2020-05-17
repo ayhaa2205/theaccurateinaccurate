@@ -10,7 +10,7 @@
     [
       {
         "contentType": "toc",
-        "content": "//This master thesis researches a new way of making in architecture: \n In #experiment01-Triangular-Vault[section-4] the feasibility of using snow as formwork material is tested. #experiment02-Happy-Accidents[section-4] explores possibilities and chance of shaping with snow. The technical advantages are analysed in #experiment03-Melt-Out[section-4]. In field trips to #research-Heinz-Isler[section-4] the history of natural form finding is explored. Concrete behaviour in cold environments is tested in the #experiment04-Concrete-Laboratory[section-4]. Inaccuracies of snow as formwork material are taken into account in #experiment05-Curtain-Arch[section-4]. #experiment06-1-to-100[section-4] explores a manual way for producing digitally. The process is executed in #experiment07-Shell-at-a-Rock[section-4]. Possibilities are taken further at #experiment08-Glaspass[section-4]. A summary about #Natural-Formations[section-4]. Previous structural knowledge with ice was gained in #The-Ice-Shell-Project[section-4]. #About[section-4] the participants. \n See the story in the #movie-The-Accurate-Inaccurate[section-4]//"
+        "content": "//This master thesis researches a new way of making in architecture: \n In #experiment01-Triangular-Vault[section-3] the feasibility of using snow as formwork material is tested. #experiment02-Happy-Accidents[section-5] explores possibilities and chance of shaping with snow. The technical advantages are analysed in #experiment03-Melt-Out[section-7]. In field trips to #research-Heinz-Isler[section-9] the history of natural form finding is explored. Concrete behaviour in cold environments is tested in the #experiment04-Concrete-Laboratory[section-11]. Inaccuracies of snow as formwork material are taken into account in #experiment05-Curtain-Arch[section-13]. #experiment06-1-to-100[section-15] explores a manual way for producing digitally. The process is executed in #experiment07-Shell-at-a-Rock[section-17]. Possibilities are taken further at #experiment08-Glaspass[section-19]. A summary about #Natural-Formations[section-21]. Previous structural knowledge with ice was gained in #The-Ice-Shell-Project[section-23]. #About[section-25] the participants. \n See the story in the #movie-The-Accurate-Inaccurate[section-2]//"
       }
     ],
     [
@@ -580,11 +580,6 @@
           },
           {
             "slideType": "image",
-            "content": "H-04__IMG_7055.jpg",
-            "slideDescription": "Anthony carrying"
-          },
-          {
-            "slideType": "image",
             "content": "H-05_P1899208.jpg",
             "slideDescription": "Melting Snow"
           },
@@ -595,18 +590,8 @@
           },
           {
             "slideType": "image",
-            "content": "H-07_P1899267.jpg",
-            "slideDescription": "Anthony carrying"
-          },
-          {
-            "slideType": "image",
             "content": "H-08_P1899285.jpg",
             "slideDescription": "Melting Snow"
-          },
-          {
-            "slideType": "image",
-            "content": "H-09_P1899294.jpg",
-            "slideDescription": "Measuring in"
           },
           {
             "slideType": "image",
@@ -615,28 +600,18 @@
           },
           {
             "slideType": "image",
-            "content": "H-11__DJI_0330.jpg",
-            "slideDescription": "Melting Snow"
-          },
-          {
-            "slideType": "image",
             "content": "H-12__IMG_7135.jpg",
             "slideDescription": "Measuring in"
           },
           {
             "slideType": "image",
-            "content": "H-13__DJI_0340.jpg",
-            "slideDescription": "Anthony carrying"
+            "content": "H-11__DJI_0330.jpg",
+            "slideDescription": "Melting Snow"
           },
           {
             "slideType": "image",
             "content": "H-14_P1899319.jpg",
             "slideDescription": "Melting Snow"
-          },
-          {
-            "slideType": "image",
-            "content": "H-15_P1899322.jpg",
-            "slideDescription": "Measuring in"
           },
           {
             "slideType": "image",
@@ -705,11 +680,6 @@
           },
           {
             "slideType": "image",
-            "content": "H-29_IMG_7258.jpg",
-            "slideDescription": "Melting Snow"
-          },
-          {
-            "slideType": "image",
             "content": "H-30_IMG_7452.jpg",
             "slideDescription": "Measuring in"
           },
@@ -764,11 +734,6 @@
             "slideDescription": "DroneScan"
           },
           {
-            "slideType": "image",
-            "content": "H-39_2020-05-13_Kiesgrube01.jpg",
-            "slideDescription": "Measuring in"
-          },
-          {
             "slideType": "video",
             "content": "H-40_2020-05-12_Kiesgrube-Rotation.mov",
             "slideDescription": "DroneScan"
@@ -787,16 +752,6 @@
             "slideType": "image",
             "content": "H-43_PrinLines2.jpg",
             "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "image",
-            "content": "H-44_babce7eb-01fd-4f05-aad1-866ba04ad8f4.jpg",
-            "slideDescription": "Quadmesh"
-          },
-          {
-            "slideType": "image",
-            "content": "H-45_cc669dff-a706-4a94-856c-89208a5325c6.jpg",
-            "slideDescription": "DroneScan"
           },
           {
             "slideType": "image",
