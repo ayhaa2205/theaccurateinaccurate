@@ -79,12 +79,12 @@ h1{
 .navigation {
     background-color: white;
     position: fixed;
-    width: 100%;
+    width: 90%;
     left: 0;
     right: 0;
     display: flex;
     margin: 0 auto;
-    padding: 20px 47px 20px 47px;
+    padding: 20px 0 20px 0;
     justify-content: space-between;
     align-content: center;
     bottom: 0;
