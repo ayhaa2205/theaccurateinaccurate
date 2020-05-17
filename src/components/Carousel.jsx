@@ -10,8 +10,8 @@ const Carousel = ({content, align}) => {
 
     const renderContent = () => {
         return content.map(contentItem => {
-            if (contentItem.slideType === "image") return <Image src={`images/${contentItem.content}`}/>;
-            if (contentItem.slideType === "video") return <Video controls={true} location={contentItem.location} src={`${contentItem.content}`}/>
+            if (contentItem.slideType === "image") return <Image align={align} src={`images/${contentItem.content}`}/>;
+            if (contentItem.slideType === "video") return <Video align={align} controls={true} location={contentItem.location} src={`${contentItem.content}`}/>
             ;
         });
     };

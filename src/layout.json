@@ -252,7 +252,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment04 Concrete Testing* \n \n Usually concreting isn’t done in the winter because chemical reactions are slower at colder temperatures. In our process however surface temperatures of the concrete will be around 0°C where it comes in contact with the snow.  Therefore we collaborate with the the Institute of Physical Chemistry of Building Materials to find an adequate mixture and to test material behaviour in cold environments. \n \n Two different mixtures are compared: One stabilized, self-compacting mixture and another one with potash added for improved behaviour in cold environments. Four samples are stored in a cooling chamber at -1°C, two samples are cured in a climate chamber at ideal conditions and two other samples are directly cast on ice surfaces. The ingredients are cooled down to a temperature of 4°C before mixing. \n \n After seven days the compressive strength of the different samples is compared: The cold-environment-samples of the stabilized-self-compacting concrete withstand approximately 10% less compressive strength than the ones being cured under ideal conditions, whereas potash-samples exhibit signifacantly inferior behaviour. Therefore we decide on a mixture without potash that is easier to use as well. \n \n The idea is to use locally-sourced sand, gravel and water for the concrete mixture. For only using local materials in the future Earthen Concrete invented by Oxara might be used. Earthen Concrete is excavation material enriched with an additive to use it as building material."
+        "content": "# #experiment04 Concrete Testing \n \n Usually concreting isn’t done in the winter because chemical reactions are slower at colder temperatures. In our process however surface temperatures of the concrete will be around 0°C where it comes in contact with the snow.  Therefore we collaborate with the the Institute of Physical Chemistry of Building Materials to find an adequate mixture and to test material behaviour in cold environments. \n \n Two different mixtures are compared: One stabilized, self-compacting mixture and another one with potash added for improved behaviour in cold environments. Four samples are stored in a cooling chamber at -1°C, two samples are cured in a climate chamber at ideal conditions and two other samples are directly cast on ice surfaces. The ingredients are cooled down to a temperature of 4°C before mixing. \n \n After seven days the compressive strength of the different samples is compared: The cold-environment-samples of the stabilized-self-compacting concrete withstand approximately 10% less compressive strength than the ones being cured under ideal conditions, whereas potash-samples exhibit signifacantly inferior behaviour. Therefore we decide on a mixture without potash that is easier to use as well. \n \n The idea is to use locally-sourced sand, gravel and water for the concrete mixture. For only using local materials in the future Earthen Concrete invented by Oxara might be used. Earthen Concrete is excavation material enriched with an additive to use it as building material."
       }
     ],
     [
@@ -1132,30 +1132,16 @@
     ],
     [
       {
-        "contentType": "text",
-        "content": "*#About* \n \n for questions contact@theaccurateinaccurate.com \n \n *Master Thesis ETH Zurich* Anthony Haag & Damian Ineichen \n \n *Studio Theriot* Professor Alexandre Theriot, Charlotte Truwant \n \n *Block Research Group* Professor Dr. Philippe Block, Francesco Ranaudo \n \n *Sponsors* Sika Schweiz AG, KFN Kalkfabrik Netstal AG \n \n *Institute for Building Materials* Lex Reiter \n \n *Host and Practical Advisor* Hannes Ineichen, Anneliese Moosberger, Corinne Grossert, Gemeinde Tschappina, Familie Schmid Blumer, Ausserglass \n \n *Helping Hands* Hannes Ineichen, Trine Tryggestad Berre, Basil Ineichen, Fabrizio Gmür, Oliver Burch \n \n *Programming* Tor Tryggestad Berre \n \n © 2018–2020 Architecture, Switzerland"
-      }
-    ],
-    [
-      {
-        "contentType": "carousel",
-        "content": [
-          {
-            "slideType": "image",
-            "content": "L-01_Anthony.jpg",
-            "slideDescription": "Anthony"
-          }
-        ]
+        "contentType": "image",
+        "content": "L-01_Anthony.jpg"
       },
       {
-        "contentType": "carousel",
-        "content": [
-          {
-            "slideType": "image",
-            "content": "L-01_Damian.jpg",
-            "slideDescription": "Damian"
-          }
-        ]
+        "contentType": "text",
+        "content": "*#About* \n \n for questions contact@theaccurateinaccurate.com \n \n *Master Thesis ETH Zurich* Anthony Haag & Damian Ineichen \n \n *Studio Theriot* Professor Alexandre Theriot, Charlotte Truwant \n \n *Block Research Group* Professor Dr. Philippe Block, Francesco Ranaudo \n \n *Sponsors* Sika Schweiz AG, KFN Kalkfabrik Netstal AG \n \n *Institute for Building Materials* Lex Reiter \n \n *Host and Practical Advisor* Hannes Ineichen, Anneliese Moosberger, Corinne Grossert, Gemeinde Tschappina, Familie Schmid Blumer, Ausserglass \n \n *Helping Hands* Hannes Ineichen, Trine Tryggestad Berre, Basil Ineichen, Fabrizio Gmür, Oliver Burch \n \n *Programming* Tor Tryggestad Berre \n \n © 2018–2020 Architecture, Switzerland"
+      },
+      {
+        "contentType": "image",
+        "content": "L-01_Damian.jpg"
       }
     ]
   ]

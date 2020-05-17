@@ -37,13 +37,13 @@ function App() {
     const getContentItemElement = ({contentType, content, location="internal"}, align) => {
         switch (contentType) {
             case "text":
-                return <div className={"text"}><ReactMarkdown source={content} /></div>;
+                return <div className={"text"}><ReactMarkdown source={content}/></div>;
             case "toc":
                 return <div className={"text centered"}>{tableOfContentParser(content)}</div>;
             case "carousel":
                 return <Carousel content={content} align={align}/>;
             case "image":
-                return <Image src={content}></Image>;
+                return <Image src={`images/${content}`}></Image>;
             case "video":
                 return <Video big={true} location={location} src={content}></Video>;
         }
@@ -51,6 +51,16 @@ function App() {
 
     const renderLayout = () => {
         return layout.sections.map((section, index) => {
+            if(section.length===3){
+                return <div name={`section-${index}`} bp={"grid"} className={"section"}>
+                    <div className={"center"} bp={"4@md 12@sm"}>{getContentItemElement(section[0], "left")}</div>
+                    <div className={"center centertext"} bp={"4@md 12@sm"}>{getContentItemElement(section[1], "center")}</div>
+                    <div className={"center"} bp={"4@md 12@sm"}>{getContentItemElement(section[2], "right")}</div>
+                    <Link className="hidden"
+                          onSetActive={section => setCurrentScrollIndex(parseInt(section.split("-")[1]))}
+                          to={`section-${index}`} spy={true} hashSpy={true}/>
+                </div>;
+            }
             if (section.length === 2) {
                 return <div name={`section-${index}`} bp={"grid"} className={"section"}>
                     <div className={"center"} bp={"6@md 12@sm"}>{getContentItemElement(section[0], "left")}</div>

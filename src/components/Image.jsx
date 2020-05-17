@@ -1,9 +1,9 @@
 import React from 'react';
 import './Image.css';
 
-const Image = ({src}) => {
+const Image = ({src, align}) => {
     return (
-        <img className={"image"} src={src}/>
+        <img className={`image ${align}`} src={src}/>
     );
 };
 

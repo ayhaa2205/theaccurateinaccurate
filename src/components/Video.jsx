@@ -1,13 +1,12 @@
 import React from 'react';
 import "./Video.css";
 
-const Video = ({src, controls, location, big}) => {
+const Video = ({src, controls, location, big, align }) => {
     return (
         <>
             {location === "external" ?
                 <iframe src={src} className={"iframe-video"} frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> :
-                <video className={`video ${big?'big':''}`} autoPlay loop>
-                    <source src={location === "external" ? src : `videos/${src}`} type="video/mp4"/>
+                <video src={`videos/${src}`} className={`video ${big?'big':''} ${align}`} autoPlay muted playsinline loop>
                 </video>
             }
         </>
