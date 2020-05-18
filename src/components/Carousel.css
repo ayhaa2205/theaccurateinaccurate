@@ -95,6 +95,7 @@
     .carousel{
         width: 90%;
         height: auto;
+        min-height: auto;
         display: inline-block;
     }
 

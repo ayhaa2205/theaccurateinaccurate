@@ -136,7 +136,7 @@ h1{
     }
     .section {
         min-height: 100vh;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
     }
 
     .padright{
