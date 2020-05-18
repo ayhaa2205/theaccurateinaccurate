@@ -24,7 +24,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment01 Triangular Vault* \n \n //*Location* Graubünden, *Height* 2517 m.a.s.l., *Date* 26-27/09/2019, *Temperature* -2°C to +5°C, *Snow Source* Snow Patch from Winter 2018/2019, *Form Finding* Rhino Vault, *Shell Forces* Compression only, *Building Material* Blitz-Zement/Locally-sourced Gravel/Water from Lake, *Material Volume* 11 l// \n \n Building starts where the human begins to transform matter into habitable space. Therefore every architectural project must start with being sensitive to what is at hand. A place, a material condition. Since in architecture we are going to expend an enormous amount of energy, we have to take the circumstances to our advantage. Thus every project starts by identifying opportunities that are latent in a broad range of circumstances. \n \n Trying to identify an opportunity for building in the Swiss mountains, one material can hardly be ignored since it is for free and available in abundance: Snow. Because it is subject to transformation processes, the idea is to use it as formwork material for concrete shells. In a first experiment the feasability of the concept is tested. In a backpack only cement is carried to the remote location. All other materials are sourced locally: Water from a lake, gravel from the surrounding site, snow from a leftover patch from last winter. Since concrete works best in compression, a precise form for compression is planned using RhinoVault."
+        "content": "# #experiment01 - Triangular Vault \n \n //*Location* Graubünden, *Height* 2517 m.a.s.l., *Date* 26-27/09/2019, *Temperature* -2°C to +5°C, *Snow Source* Snow Patch from Winter 2018/2019, *Form Finding* Rhino Vault, *Shell Forces* Compression only, *Building Material* Blitz-Zement/Locally-sourced Gravel/Water from Lake, *Material Volume* 11 l// \n \n Building starts where the human begins to transform matter into habitable space. Therefore every architectural project must start with being sensitive to what is at hand. A place, a material condition. Since in architecture we are going to expend an enormous amount of energy, we have to take the circumstances to our advantage. Thus every project starts by identifying opportunities that are latent in a broad range of circumstances. \n \n Trying to identify an opportunity for building in the Swiss mountains, one material can hardly be ignored since it is for free and available in abundance: Snow. Because it is subject to transformation processes, the idea is to use it as formwork material for concrete shells. In a first experiment the feasability of the concept is tested. In a backpack only cement is carried to the remote location. All other materials are sourced locally: Water from a lake, gravel from the surrounding site, snow from a leftover patch from last winter. \n \n Increasing computational methods introduced computational models to the design of shells, that simulate a potential optimal force flow and thus create a shape. These forms correspond with the optimal force flow and therefore generate efficient constructions under self load. Since concrete works best in compression, a precise form for compression is planned using RhinoVault."
       }
     ],
     [
@@ -154,7 +154,7 @@
           {
             "slideType": "video",
             "content": "A-24_2020-05-02_Triangular-Vault_Rotation.mov",
-            "slideDescription": "The process from planning to formwork to finished shell."
+            "slideDescription": "The process from planning over formwork to finished shell."
           }
         ]
       }
@@ -162,7 +162,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment02 Happy Accidents* \n \n //*Location* Masein, *Height* 876 m.a.s.l., *Date* 10/10/2019, *Temperature* 8°C - 12°C, *Snow Source* TechnoAlpin SF210/Lenzerheide, *Form Finding* Intuitive, *Shell Forces* Compression/Tension/Bending, *Building Material* Gypsum// \n \n As a natural material snow is exposed to diverse environmental influences: Sun, wind, temperature, water, mechanical influences, colour - all these factors influence its form and make it subject to uncontrolled influences. It’s character isn’t complete controllability. It rather excels in simple manageability and the the possibility for the emergence of randomness. We want to take advantage of these opportunities in our project. With every material it is about identifying the chances that are given by its inherent properties. By using snow as formwork material for concrete shells we give the uncontrolled influence in our experiments. \n \n A second experiment is conducted to explore potentials of snow shaping. The thermal properties of snow are harnessed to use hot water as a shaping tool. As a natural process not all factors can always be controlled, which leaves room for accident and emergence. Because of the partly melting surface not all of the gypsum reacts with the air creating a rough and archaic surface."
+        "content": "# #experiment02 - Happy Accidents \n \n //*Location* Masein, *Height* 876 m.a.s.l., *Date* 10/10/2019, *Temperature* 8°C - 12°C, *Snow Source* TechnoAlpin SF210/Lenzerheide, *Form Finding* Intuitive, *Shell Forces* Compression/Tension/Bending, *Building Material* Gypsum// \n \n As a natural material snow is exposed to diverse environmental influences: Sun, wind, temperature, water, mechanical influences, colour - all these factors influence its form and make it subject to uncontrolled influences. It’s character isn’t complete controllability. It rather excels in simple manageability and the the possibility for the emergence of randomness. We want to take advantage of these opportunities in our project. With every material it is about identifying the chances that are given by its inherent properties. By using snow as formwork material for concrete shells we give the uncontrolled influence in our experiments. \n \n A second experiment is conducted to explore potentials of snow shaping. The thermal properties of snow are harnessed to use hot water as a shaping tool. As a natural process not all factors can always be controlled, which leaves room for accident and emergence. Because of the partly melting surface not all of the gypsum reacts with the air creating a rough and archaic surface."
       }
     ],
     [
@@ -200,7 +200,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment03 Melt Out* \n \n Our project develops a viable process for using snow as in-situ formwork for monolithic shell structures. A project of architectural potential as well as environmental ambition. \n \n Snow is a porous material of air and water that forms mostly in the winter at temperatures around 0 °C. Architecturally, with its very specific properties around the freezing point, snow offers new possibilities for shaping and texturing, but also procedural advantages. As a method of temporary formwork construction it solves the problems of waste material and manual labour at the stage of demolding. \n \n In the process high technological planning comes together with hands-on construction using natural, locally available materials. Embracing constraint and contingency the process raises fundamental questions about where ideas of material supply and architectural culture should meet."
+        "content": "# #experiment03 - Melt Out \n \n Our project develops a viable process for using snow as in-situ formwork for monolithic shell structures. A project of architectural potential as well as environmental ambition. \n \n Snow is a porous material of air and water that forms mostly in the winter at temperatures around 0 °C. Architecturally, with its very specific properties around the freezing point, snow offers new possibilities for shaping and texturing, but also procedural advantages. As a method of temporary formwork construction it solves the problems of waste material and manual labour at the stage of demolding. \n \n In the process high technological planning comes together with hands-on construction using natural, locally available materials. Embracing constraint and contingency the process raises fundamental questions about where ideas of material supply and architectural culture should meet."
       }
     ],
     [
@@ -214,7 +214,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#research Heinz Isler* \n \n Because of our interest in material possibilities we are especially interested in shell constructions. Through their efficient structural behaviour concrete shell structures are able to cover large spaces at minimal material consumption. They are thin, curved plate structures shaped to transmit applied forces by compressive, tensile, and shear stresses, that act in the plane of the surface1. \n \n In the design of shell constructions nature was first introduced by Heinz Isler. With the aid of models he observed natural phenomena that he used for finding forms that follow the natural flow of forces. With this very thin shells could be realised. Natural processes were used as a design tool for the design process. To this category also the soap film experiments of Otto Frei can be attributed. One of the main principles is the inversion of tension only forms to forms under compression. \n \n In contrast to their structural efficiency the construction of shells traditionally requires both material- and labor-intensive formworks. Often materials are only used once, since they are customised for a specific geometry. Moreover in a contemporary building environment labor is expensive and therefore makes concrete shell structures rather costly. \n \n 1 from Encyclopaedia Britannica"
+        "content": "# #research - Heinz Isler \n \n Because of our interest in material possibilities we are especially interested in shell constructions. Through their efficient structural behaviour concrete shell structures are able to cover large spaces at minimal material consumption. They are thin, curved plate structures shaped to transmit applied forces by compressive, tensile, and shear stresses, that act in the plane of the surface1. \n \n In the design of shell constructions nature was first introduced by Heinz Isler. With the aid of models he observed natural phenomena that he used for finding forms that follow the natural flow of forces. With this very thin shells could be realised. Natural processes were used as a design tool for the design process. To this category also the soap film experiments of Otto Frei can be attributed. One of the main principles is the inversion of tension only forms to forms under compression. \n \n In contrast to their structural efficiency the construction of shells traditionally requires both material- and labor-intensive formworks. Often materials are only used once, since they are customised for a specific geometry. Moreover in a contemporary building environment labor is expensive and therefore makes concrete shell structures rather costly. \n \n 1 from Encyclopaedia Britannica"
       }
     ],
     [
@@ -252,7 +252,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #experiment04 Concrete Testing \n \n Usually concreting isn’t done in the winter because chemical reactions are slower at colder temperatures. In our process however surface temperatures of the concrete will be around 0°C where it comes in contact with the snow.  Therefore we collaborate with the the Institute of Physical Chemistry of Building Materials to find an adequate mixture and to test material behaviour in cold environments. \n \n Two different mixtures are compared: One stabilized, self-compacting mixture and another one with potash added for improved behaviour in cold environments. Four samples are stored in a cooling chamber at -1°C, two samples are cured in a climate chamber at ideal conditions and two other samples are directly cast on ice surfaces. The ingredients are cooled down to a temperature of 4°C before mixing. \n \n After seven days the compressive strength of the different samples is compared: The cold-environment-samples of the stabilized-self-compacting concrete withstand approximately 10% less compressive strength than the ones being cured under ideal conditions, whereas potash-samples exhibit signifacantly inferior behaviour. Therefore we decide on a mixture without potash that is easier to use as well. \n \n The idea is to use locally-sourced sand, gravel and water for the concrete mixture. For only using local materials in the future Earthen Concrete invented by Oxara might be used. Earthen Concrete is excavation material enriched with an additive to use it as building material."
+        "content": "# #experiment 04 - Concrete Laboratory \n \n Usually concreting isn’t done in the winter because chemical reactions are slower at colder temperatures. In our process, however, surface temperatures of the concrete will be around 0°C where it comes in contact with the snow.  Therefore we collaborate with the the Institute of Physical Chemistry of Building Materials to find an adequate mixture and to test material behaviour in cold environments. \n \n Two different mixtures are compared: One stabilized, self-compacting mixture and another one with potash added for improved behaviour in cold environments. Four samples are stored in a cooling chamber at -1°C, two samples are cured in a climate chamber at ideal conditions and two other samples are directly cast on ice surfaces. The ingredients are cooled down to a temperature of 4°C before mixing. \n \n After seven days the compressive strength of the different samples is compared: The cold-environment-samples of the stabilized-self-compacting concrete withstand approximately 10% less compressive strength than the ones being cured under ideal conditions, whereas potash-samples exhibit signifacantly inferior behaviour. Therefore we decide on a mixture without potash that is easier to use as well. \n \n The idea is to use locally-sourced sand, gravel and water for the concrete mixture. For only using local materials in the future Earthen Concrete invented by Oxara might be used. Earthen Concrete is excavation material enriched with an additive to use it as building material."
       }
     ],
     [
@@ -305,7 +305,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment05 Curtain Arch* \n \n //*Location* Gadastatt, *Height* 1713 m.a.s.l., *Date* 07-08/11/2019, *Temperature* -0.5°C to 4°C, *Snow Source* Fresh Snow, *Form Finding* Parabola, *Shell Forces* Mostly Compression/Activation of full structural Depth through Tension Forces, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Material Volume* 45.9 l, *Weight* 109 kg// \n \n From the beginning there have been various auxiliary tools for designing shell constructions. First shells were planned with the help of basic mathematically defined forms: Cupolas, barrel vaults; These shapes can easily be described mathematically and therefore their complexity becomes manageable. Shell pioneers like Felix Candela introduced more complex mathematically defined forms like hyperbolic paraboloids. In this evolution Eduardo Torroja used simple principles for generating even more complex forms. Often these mathematically defined shapes appear very elegant. Since they follow a formation process our mind can understand their creation to a certain degree. \n \n To test the viability of the previous experiments a structural prototype is erected. The shape is created with a simple mathematical operation: A sinus curve is extruded along a parabola to create an arch. Under self-weight a catenary is the most efficient for for spanning a distance. However, since the goal is to stand on the structure, also asymmetrical loading cases have to be taken into account. The corrugation of the sinus curve adds structural depth to make the arch more stable for asymmetrical loading cases. This makes the arch more robust for inaccuracies of the formwork material as well. In this manner the slight difference between parabola and catenary can be neglected. \n \n With this method an arch spanning 1.8m with a height of 1m is constructed. The developed concrete mixture is used without any reinforcement. The finished arch is able to withstand the point load of two people of approximately 150 kg."
+        "content": "# #experiment05 - Curtain Arch \n \n //*Location* Gadastatt, *Height* 1713 m.a.s.l., *Date* 07-08/11/2019, *Temperature* -0.5°C to 4°C, *Snow Source* Fresh Snow, *Form Finding* Parabola, *Shell Forces* Mostly Compression/Activation of full structural Depth through Tension Forces, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Material Volume* 45.9 l, *Weight* 109 kg// \n \n From the beginning there have been various auxiliary tools for designing shell constructions. First shells were planned with the help of basic mathematically defined forms: Cupolas, barrel vaults; These shapes can easily be described mathematically and therefore their complexity becomes manageable. Shell pioneers like Felix Candela introduced more complex mathematically defined forms like hyperbolic paraboloids. In this evolution Eduardo Torroja used simple principles for generating even more complex forms. Often these mathematically defined shapes appear very elegant. Since they follow a formation process our mind can understand their creation to a certain degree. \n \n To test the viability of the previous experiments a structural prototype is erected. The shape is created with a simple mathematical operation: A sinus curve is extruded along a parabola to create an arch. Under self-weight a catenary is the most efficient for for spanning a distance. However, since the goal is to stand on the structure, also asymmetrical loading cases have to be taken into account. The corrugation of the sinus curve adds structural depth to make the arch more stable for asymmetrical loading cases. This makes the arch more robust for inaccuracies of the formwork material as well. In this manner the slight difference between parabola and catenary can be neglected. \n \n With this method an arch spanning 1.8m with a height of 1m is constructed. The developed concrete mixture is used without any reinforcement. The finished arch is able to withstand the point load of two people of approximately 150 kg."
       }
     ],
     [
@@ -315,7 +315,7 @@
           {
             "slideType": "image",
             "content": "F-01_IMG_3228.jpg",
-            "slideDescription": "An accurate framework is erected to precisely measure in a form."
+            "slideDescription": "An accurate framework is erected to precisely measure in the form."
           },
           {
             "slideType": "image",
@@ -483,7 +483,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment06 1 to 100* \n \n //*Location* Oberurmein, *Height* 1526 m.a.s.l., *Date* 02/03/2020, *Temperature* -1°C, *Snow Source* Fresh Snow, *Form Finding* Intuitive, *Shell Forces* Compression/Tension, *Building Material* Snow// \n \n We have learned that it is not necessarily the material advantage of snow to reproduce an exact form. It provides chances for randomness and accidents. In an analogy the human is not just a rational being, but has also irrational needs that need to be catered for. For this realm architecture has to provide spaces and stimuli as well. In traditional Japanese architecture crooked trees are used for construction to incorporate the poetic. Eero Saarinen writes in his reflections about the expressive form that structural and rational can’t always be given precedence if other forms prove more beautiful. \n \n For this reason in a next experiment a different approach is tested: A snow pile is shaped intuitively as in a form of abstract painting. Nevertheless in building the intent of the human is always of importance, which is why the uncontrolled should be controlled. Only contemporary technology makes it possible to handle this uncontrolledness. With the help of a 3D-Laserscanner at any time the form can be recorded within minutes in millimetre precision. Therefore this form is then recorded with a pointcloud. With this the shape is transferred into the digital where further alterations are possible. As an example scale is of minor importance in the digital, as well as it is possible to analyse shapes structurally."
+        "content": "# #experiment06 - 1 to 100 \n \n //*Location* Oberurmein, *Height* 1526 m.a.s.l., *Date* 02/03/2020, *Temperature* -1°C, *Snow Source* Fresh Snow, *Form Finding* Intuitive, *Shell Forces* Compression/Tension, *Building Material* Snow// \n \n Snow it characterised by chances for randomness and accidents. There is a certain fascination for accidental formations, because we can’t fully comprehend how they are made in their complexity. In that sense these forms withdraw themselves partly from understanding. The human is not just a rational being, but also has irrational needs that need to be catered for. For this realm architecture has to provide spaces and stimuli. In traditional Japanese architecture crooked trees are used for construction to incorporate the poetic. This doesn’t follow pure needs of the construction. Also Eero Saarinen writes in his reflections about the expressive form that structural and rational can’t always be given precedence if other forms prove more beautiful. \n \n For this reason in a next experiment a different approach is tested: A snow pile is shaped intuitively as in a form of abstract painting. Nevertheless in building the intent of the human is always of importance, which is why the uncontrolled should be controlled. Only contemporary technology makes it possible to handle this uncontrolledness. With the help of a 3D-Laserscanner at any time the form can be recorded within minutes in millimetre precision. Therefore this form is then recorded with a pointcloud. With this the shape is transferred into the digital where further alterations are possible. In the digital scale is of minor importance and it is possible to analyse every shape structurally."
       }
     ],
     [
@@ -556,7 +556,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment07 Shell at a Rock* \n \n //*Location* Tschappina, *Height* 1396 m.a.s.l., *Date* 25/03-06/04/2020, *Temperature* -8°C to 14°C, *Snow Source* Fresh Snow, *Form Finding* Iterative (Intuitive/Accidental/Computational), *Shell Forces* Mostly Compression/Tension/Bending, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Material Volume* l, *Weight* kg// \n \n Thereby it is also about a playful relationship to the digital. In first experiments exact forms were thought digitally and then produced manually. Our relationship can be indeed expended by thinking manually and then producing digitally. This can result in a final result or can be translated back again from virtuality to physical reality. In our physical reality scale plays an enormous role, in the digital usually scale doesn’t matter. Therefore our project is also a starting point to rethink our relationship with the digital and mechanical. Chance and mathematical exactitude don’t exclude each other. In an analogous way our design process corresponds to stochastic calculatory processes of contemporary computational networks or searching algorithms such as google. Markov-chains make it possible to find probable solutions for the future without knowing all elements precisely. \n \n In a next step a snow form can be built in 1 to 1 scale. After recording with a laser scanner this form can be analysed structurally and adapted until satisfaction. In an iterative process adapting, scanning, analysing take turns to find a form. The adaption is done by hand in the awareness that a quality of architecture can lie in the handcrafted, manually executed. Once a form is found concreting can happen to turn the shape from a negative into a positive. \n \n In this way processes come together that haven’t been combined before. The form is not only natural but also technical. Through this it withdraws itself partially from understanding and introduces a new quality of the mysterious combined with technology."
+        "content": "# #experiment07 - Shell at a Rock \n \n //*Location* Tschappina, *Height* 1396 m.a.s.l., *Date* 25/03-06/04/2020, *Temperature* -8°C to 14°C, *Snow Source* Fresh Snow, *Form Finding* Iterative (Intuitive/Accidental/Computational), *Shell Forces* Mostly Compression/Tension/Bending, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Surface Area* 16.2 m2, *Weight* 1.7 t// \n \n In first experiments exact forms were thought digitally and then produced manually. In a next step we investigate thinking manually and producing digitally. A digital form can be the outcome or influence reality in a process. It is a starting point to rethink the relationship of the digital and mechanical. Chance and mathematical exactitude don’t exclude each other. Our design process corresponds to stochastic calculatory processes of contemporary computational networks or searching algorithms such as google: Markov-chains make it possible to find probable solutions for the future without knowing all elements precisely. \n \n A next experiment researches this process in full building scale: Snow is piled into a form. This form is recorded with a laser scanner. Translated into a mesh this form can be analysed structurally and afterwards altered in reality. This process is repeated until satisfaction. In an iterative process adapting, scanning, analysing take turns to find a form. The adaption is done by hand in the awareness that a quality of architecture can lie in the handcrafted, manually executed. Once a form is found concreting turns the shape from a negative into a positive. \n \n In this way processes come together that haven’t been combined before. The form is not only natural but also technical. Through this it withdraws itself partially from understanding and introduces a new quality of the mysterious combined with technology."
       }
     ],
     [
@@ -566,152 +566,152 @@
           {
             "slideType": "image",
             "content": "H-01__IMG_6801.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Two stones mark the site."
           },
           {
             "slideType": "image",
             "content": "H-02__IMG_6979.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "The process begins: Harvesting the local material."
           },
           {
             "slideType": "image",
             "content": "H-03__IMG_7003.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The building material is accumulated on site."
           },
           {
             "slideType": "image",
             "content": "H-05_P1899208.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "In iterations of shovelling, scanning, analysing it is shaped into form."
           },
           {
             "slideType": "image",
             "content": "H-06_P1899250.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Snow excels in flexibility."
           },
           {
             "slideType": "image",
             "content": "H-08_P1899285.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "It adapts to all irregularities of a form."
           },
           {
             "slideType": "image",
             "content": "H-10__IMG_7715.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "The melting water needs to go some where. Damian working on a drainage system."
           },
           {
             "slideType": "image",
             "content": "H-12__IMG_7135.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "A combination of gravel and rebars functions as foundations that let the melting water go away and take horizontal forces at the same time."
           },
           {
             "slideType": "image",
             "content": "H-11__DJI_0330.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "A view from above shows the channels of the drainage system."
           },
           {
             "slideType": "image",
             "content": "H-14_P1899319.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "The precious material needs protection from the sun."
           },
           {
             "slideType": "image",
             "content": "H-16_IMG_0844.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "The mixing procedure can begin. All ingredients are combined with accuracy."
           },
           {
             "slideType": "image",
             "content": "H-17_IMG_0853.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "A quality can lie in the imperfections of the handmade."
           },
           {
             "slideType": "image",
             "content": "H-18_IMG_7171.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Now all it needs is just hard work."
           },
           {
             "slideType": "image",
             "content": "H-19_IMG_7188.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "There is pleasure in relentlessly working on a task."
           },
           {
             "slideType": "image",
             "content": "H-20_IMG_7746.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "Obsession is what connects us to our machines."
           },
           {
             "slideType": "image",
             "content": "H-21__IMG_7217.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The work of 14 hours of concreting is done."
           },
           {
             "slideType": "image",
             "content": "H-22_IMG_7226.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Where stone and liquid stone meet."
           },
           {
             "slideType": "image",
             "content": "H-23_P1899519.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "As a liquid material concrete adapts to all shapes."
           },
           {
             "slideType": "image",
             "content": "H-24_P1899535.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The virtues of the handmade."
           },
           {
             "slideType": "image",
             "content": "H-25_IMG_7322.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "A firm bond has been created between the rock and the concrete."
           },
           {
             "slideType": "image",
             "content": "H-26_IMG_7438.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "Formwork, foundation and building material meet."
           },
           {
             "slideType": "image",
             "content": "H-27_IMG_7440.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The rough and archaic texture on the inside."
           },
           {
             "slideType": "image",
             "content": "H-28_IMG_7240.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Every experiment needs to be tested properly."
           },
           {
             "slideType": "image",
             "content": "H-30_IMG_7452.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The sun is already too strong. The snow is melting too quickly to act as a stable formwork."
           },
           {
             "slideType": "image",
             "content": "H-31_IMG_7463.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Cracks are getting bigger every day."
           },
           {
             "slideType": "image",
             "content": "H-32_P1899941.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "The sun has done its work."
           },
           {
             "slideType": "image",
             "content": "H-33_P1900015.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Rock and shell are still in a strong connection."
           },
           {
             "slideType": "image",
             "content": "H-34_P1900055.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Every experiment leads to increased knowledge."
           },
           {
             "slideType": "image",
             "content": "H-35_I0460.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "The site set back to its original state."
           },
           {
             "slideType": "image",
             "content": "H-36_P1900073.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "All building materials are ready for transportation. Use materials wisely. You need less and your structure can be lighter."
           }
         ]
       },
@@ -721,47 +721,47 @@
           {
             "slideType": "image",
             "content": "H-37_2020-05-13_Kiesgrube41.jpg",
-            "slideDescription": "Force Diagram"
+            "slideDescription": "Accurate is the realm of machines."
           },
           {
             "slideType": "image",
             "content": "H-38_2020-05-13_Kiesgrube46.jpg",
-            "slideDescription": "Quadmesh"
+            "slideDescription": "The laser scanner records its surroundings with a precision of 0.1 mm. "
           },
           {
             "slideType": "image",
             "content": "H-38_2020-05-13_Kiesgrube51.jpg",
-            "slideDescription": "DroneScan"
+            "slideDescription": "Every second one million points register every detail."
           },
           {
             "slideType": "video",
             "content": "H-40_2020-05-12_Kiesgrube-Rotation.mov",
-            "slideDescription": "DroneScan"
+            "slideDescription": "The process of piling, shaping, analysing, concreting"
           },
           {
             "slideType": "video",
             "content": "H-41_2020-05-11_Kiesgrube-AllObjects.mov",
-            "slideDescription": "Measuring in"
+            "slideDescription": "All stages of the construction process"
           },
           {
             "slideType": "image",
             "content": "H-42_PrincStressBeforeAnalysis.jpg",
-            "slideDescription": "Quadmesh"
+            "slideDescription": "A first iteration of principal stress lines in the shaping process"
           },
           {
             "slideType": "image",
             "content": "H-43_PrinLines2.jpg",
-            "slideDescription": "Force Diagram"
+            "slideDescription": "Last iteration of principal stress lines before concreting"
           },
           {
             "slideType": "image",
             "content": "H-46_e9f536dd-060b-481c-b0ef-6d29c545d05e.JPG",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Visualisation of final shape as a shell"
           },
           {
             "slideType": "image",
             "content": "H-47_ee74424b-4f3b-4c4d-8f44-fd7c72066261.jpg",
-            "slideDescription": "Quadmesh"
+            "slideDescription": "A shell at a rock over a rock"
           }
         ]
       }
@@ -769,7 +769,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#experiment10 Glaspass* \n \n //*Location* Inner Glas, *Height* 1817 m.a.s.l., *Date* 05-24/03/2020, *Temperature* -12°C to 7°C, *Snow Source* Fresh Snow, *Form Finding* Free-Form/Intuitive/Accidental/Computational, *Shell Forces* Compression/Tension, *Building Material* Snow, *Material Volume*, *Weight*// \n \n In this process technology doesn’t act as controlling instance anymore, but enables freedom and experiment. In times of digitalising the architectural design process for the meticulous planning up to whole building models, this process restores freedom to the architect in the building process. On that point Seijima argues how important it is for her to handle the presence of undefined variables in the design process4. In our process there is also a rough idea of what should be created. The definitive outcome though is strongly influenced by the process: A maximum gradient is given by how the material can be accumulated. New Forms are created through melting. Sometimes the architect decides on site to alter the form. Openings are a result to reach all surface area while concreting. It is more like playing a game. Sometimes chance and intuition are taking their turn, other times deliberate decisions are made. \n \n Step by step our experiments were oscillating between these two worlds. A first small-scale experiment was structurally optimised for compression forces in RhinoVault. Through measuring this form was more or less accurately recreated on site. For a next structural experiment inaccuracies were taken into account through incorporating structural redundancies. Folding increases the structural section and make a structure more robust for inaccuracies. For redundancies folds were also used for a further experiment where they were created from spontaneous opportunities. Structurally these deformations were controlled to keep folding only in favourable directions. We understand our investigations as a starting point to think about the potential of materials, the digital in architecture and the relationship of construction and mysterious. Architecture is a rational as well as an irrational endeavour and will always only be negotiated between these two fields. 4 in ElCroquis 77(I), kazuo sejima; koji taki (1996), conversation with kazuo sejima, p. 6-17;"
+        "content": "# #experiment08 - Glaspass \n \n //*Location* Inner Glas, *Height* 1817 m.a.s.l., *Date* 05-24/03/2020, *Temperature* -12°C to 7°C, *Snow Source* Fresh Snow, *Form Finding* Free-Form/Intuitive/Accidental/Computational, *Shell Forces* Compression/Tension, *Building Material* Snow, *Surface Area* 72 m2// \n \n Our experiments explore a playful relationship to the digital. Technology doesn’t act as controlling instance anymore, but enables freedom and experiment. In times of digitalising the architectural design process for the meticulous planning up to whole building models, this process restores freedom to the architect in the building process. In our process there is also an abstract idea of the outcome. The definitive result, however, is strongly influenced by the process: A maximum gradient is given by how the material can be accumulated. New Forms are created through melting. Sometimes on site it is decided to alter the form. Openings are a result of the necessity to reach all surface area while concreting. It is as playing a game: Sometimes chance and intuition are taking their turn, other times deliberate decisions are made. \n \n We understand architecture as something that is made. The potential of a material condition acts as a starting point to explore technology and the digital in architecture. With the digitalisation of our society the imprecise is gaining importance. Algorithms are not computing a single truth anymore, but follow stochastic evaluation processes and thus find solutions that are true with a certain probability."
       }
     ],
     [
@@ -779,142 +779,127 @@
           {
             "slideType": "image",
             "content": "I-00_DJI_0092.jpg",
-            "slideDescription": "Anthony carrying"
-          },
-          {
-            "slideType": "image",
-            "content": "I-00_DJI_0093.jpg",
-            "slideDescription": "Anthony carrying"
-          },
-          {
-            "slideType": "image",
-            "content": "I-01_P1844367.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "New site - new opportunities"
           },
           {
             "slideType": "image",
             "content": "I-02_IMG_6896.jpg",
-            "slideDescription": "Melting Snow"
-          },
-          {
-            "slideType": "image",
-            "content": "I-02b_DJI_0123.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "Damian measuring in ground plans."
           },
           {
             "slideType": "image",
             "content": "I-03_IMG_2069.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Anthony is getting help from a machine for accumulating material."
           },
           {
             "slideType": "image",
             "content": "I-04_P1844715.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Machines are the celebration of creation."
           },
           {
             "slideType": "image",
             "content": "I-05_IMG_1417.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "It’s still hard work."
           },
           {
             "slideType": "image",
             "content": "I-06_IMG_7257.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Natural influences have impacted the first pile of snow."
           },
           {
             "slideType": "image",
             "content": "I-07_IMG_6663.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "The shovelling begins."
           },
           {
             "slideType": "image",
             "content": "I-08_IMG_7278.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "A form starts to grow."
           },
           {
             "slideType": "image",
             "content": "I-09_IMG_6726.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The work of day 1 is recorded."
           },
           {
             "slideType": "image",
             "content": "I-10_IMG_7292.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "Day 2: The hill is getting bigger."
           },
           {
             "slideType": "image",
             "content": "I-11_IMG_6694.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "A next iteration of scanning."
           },
           {
             "slideType": "image",
             "content": "I-12_IMG_6719.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Day 3 of shovelling. "
           },
           {
             "slideType": "image",
             "content": "I-13_IMG_6717.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "A hill before a hill."
           },
           {
             "slideType": "image",
             "content": "I-14_P1877033.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "We are mystics and rationalists."
           },
           {
             "slideType": "image",
             "content": "I-15_IMG_6733.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The scanner records the work of day 3."
           },
           {
             "slideType": "image",
             "content": "I-16_P1855037.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "On top of the mountain"
           },
           {
             "slideType": "image",
             "content": "I-17_a2547d01-5a22-4146-8ce4-f047498c7779.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "A form is taking shape"
           },
           {
             "slideType": "image",
             "content": "I-18_P1877087.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The shape is getting smoother."
           },
           {
             "slideType": "image",
             "content": "I-19_IMG_7362.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "And again: scanning."
           },
           {
             "slideType": "image",
             "content": "I-20_P1877117.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "Mountain forms"
           },
           {
             "slideType": "image",
             "content": "I-21_P1877162.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Finishing touches"
           },
           {
             "slideType": "image",
             "content": "I-22_P1877200.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "The hill and its harvesting area"
           },
           {
             "slideType": "image",
             "content": "I-23_P1877224.jpg",
-            "slideDescription": "Melting Snow"
+            "slideDescription": "The digital as well as the manual is our play field."
           },
           {
             "slideType": "image",
             "content": "I-24_JLIT7480.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Fresh supply of material."
           },
           {
             "slideType": "image",
             "content": "I-25_IMG_7278.jpg",
-            "slideDescription": "Anthony carrying"
+            "slideDescription": "The building material is recycled to water."
           }
         ]
       },
@@ -924,92 +909,47 @@
           {
             "slideType": "image",
             "content": "I-27_DronePointcloudwithShell.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "image",
-            "content": "I-27b_Ghosted.jpg",
-            "slideDescription": "Force Diagram"
+            "slideDescription": "Point cloud scanning of large areas can be done photogrammetric with a drone."
           },
           {
             "slideType": "image",
             "content": "I-27a_IMG_A82AAB52CA09-1.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "image",
-            "content": "I-26b_2020-03-15_Innenraum_02.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "image",
-            "content": "I-26_2020-03-15_Innenraum_02.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "video",
-            "content": "I-28_2020-04-28_Glaspass-Schneehügel.mov",
-            "slideDescription": "Quadmesh"
-          },
-          {
-            "slideType": "image",
-            "content": "I-29_01_Shaded.jpg",
-            "slideDescription": "Quadmesh"
-          },
-          {
-            "slideType": "image",
-            "content": "I-29_03_Shaded.jpg",
-            "slideDescription": "Quadmesh"
-          },
-          {
-            "slideType": "image",
-            "content": "I-30_VaultFreeformHandshape.jpg",
-            "slideDescription": "DroneScan"
-          },
-          {
-            "slideType": "image",
-            "content": "I-31_2020-03-21_Schneeberg01.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "Flight path for scanning the specified area."
           },
           {
             "slideType": "image",
             "content": "I-32_2020-03-21_Schneeberg02.jpg",
-            "slideDescription": "Force Diagram"
+            "slideDescription": "Pointcloud of early iteration of the form"
           },
           {
-            "slideType": "image",
-            "content": "I-33_2020-03-21_Schneeberg03.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "image",
-            "content": "I-34_2020-03-21_Schneeberg04.jpg",
-            "slideDescription": "Force Diagram"
+            "slideType": "video",
+            "content": "I-28_2020-04-28_Glaspass-Schneehügel.mov",
+            "slideDescription": "Process of shaping a snow formwork"
           },
           {
             "slideType": "image",
             "content": "I-35_2020-03-24_Schneeberg09.jpg",
-            "slideDescription": "Force Diagram"
-          },
-          {
-            "slideType": "video",
-            "content": "I-36_2020-03-24_Schneeberg16.jpg",
-            "slideDescription": "Quadmesh"
+            "slideDescription": "A point cloud scan shows the area of snow used for the formwork."
           },
           {
             "slideType": "image",
-            "content": "I-37_2020-03-24_Schneeberg22.jpg",
-            "slideDescription": "DroneScan"
+            "content": "I-29_03_Shaded.jpg",
+            "slideDescription": "At every moment the shape can be compared to the idea of an intended form."
+          },
+          {
+            "slideType": "image",
+            "content": "I-30_VaultFreeformHandshape.jpg",
+            "slideDescription": "Principal stress lines of a geometrical freeform, a shape from rhinoVAULT, an iteration of the snow pile; from top to bottom"
           },
           {
             "slideType": "image",
             "content": "I-38_2020-03-24_Schneeberg23.jpg",
-            "slideDescription": "Measuring in"
+            "slideDescription": "The hint of an interior space"
           },
           {
             "slideType": "image",
-            "content": "I-39_2020-03-24_Schneeberg28.jpg",
-            "slideDescription": "Measuring in"
+            "content": "I-26b_2020-03-15_Innenraum_02.jpg",
+            "slideDescription": "A possible outcome"
           }
         ]
       }
@@ -1017,7 +957,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#Natural Formations* \n \n Since day one humans have been occupied with nature as a source of inspiration, as a goal as well as a challenge in its perfection. In many ways nature is a resource for the creative human, but also a counterpoint in his own work. \n \n Increasing computational methods introduced computational models to the design of shells, that simulate a potential optimal force flow and thus create a shape. These forms correspond with the optimal force flow and therefore generate efficient constructions under self load. Though in nature there can always be surprising load cases, which is why there isn’t one perfect form, but of course more and less appropriate. Irregular forms often prove to be more robust. Uncontrolled processes can be of advantage."
+        "content": "# #Natural Formations \n \n Since day one humans have been occupied with nature as a source of inspiration, as a goal as well as a challenge in its perfection. In many ways nature is a resource for the creative human, but also a counterpoint in his own work. \n \n This project is doing basic research about architectural design- and building processes. It uses natural materials for experiments to examine a relationship between the accurate and the inaccurate in today’s architecture. The goal is to explore spaces that reconciles constructional accuracy with mystery and intuition of natural processes as well as manual labour. Commonly the two are perceived as opposing players. Construction/Technology as an exact science that knows exactly one truth. In contrast nature is associated with the wild, uncontrolled, where, although following certain formation processes, randomness always plays a role. \n \n Step by step our experiments were oscillating between the worlds of the accurate and inaccurate: A first small-scale experiment was structurally optimised for compression forces in RhinoVault. Through measuring this form was more or less accurately recreated on site. For a next structural experiment inaccuracies were taken into account through incorporating structural redundancies. Further experiments developed a process of accurately measuring all inaccuracies to enable freedom and experiment. \n \n Our investigations are a starting point to think about the potential of materials, the digital in architecture and the relationship of construction and mysterious. We recognise architecture as a rational as well as an irrational endeavour that always needs to be negotiated between these two fields. A fascination for the precise, engineered is brought together with something that is handmade, formed by nature, something that is closer to the human, with imperfections."
       }
     ],
     [
@@ -1080,7 +1020,7 @@
     [
       {
         "contentType": "text",
-        "content": "*#The Ice Shell Project* \n \n with Oliver Burch & Fabian Kuonen \n \n watch the movie: https://vimeo.com/channels/iceshellproject/ \n \n //*Location* Gadastatt, *Height* 1713 m.ü.M., *Date* 4 experiments between 25/11/2018 and 30/01/2019, *Temperature* min. -14°C, *Form Finding* experimental/mathematical/computational, *Shell Forces* according to experiment, *Building Material* Ice/Glasfibre Net, *Surface Area* max. 56.66 m2, *Ground Area* max. 41.4 m2, *Ice thickness* 2-32 mm, *Weight* max. 1050 kg, *Load* max. 90 kg// \n \n The Snow Formwork experiments were preceded by ‚The Ice Shell Project‘ together with Oliver Burch and Fabian Kuonen. Research was conducted on the possibility of building shell structures made of ice. \n \n A super-lightweight glassfibre net is used as stay in place formwork. With ropes this membrane is stretched between rebar arches, creating a complex geometry in-between. Once erected the net is sprayed with water creating a continuous ice surface. In the end the boundary conditions can be taken away and the ice shell stands on its own. \n \n Although in this case the end result is only temporary, it created an awareness that the natural condition of temperature can be integrated in a building process. We ask ourselves: Can we use the temporary nature to our advantage?"
+        "content": "# #The Ice Shell Project \n \n with Oliver Burch & Fabian Kuonen \n \n watch the movie: https://vimeo.com/channels/iceshellproject/ \n \n //*Location* Gadastatt, *Height* 1713 m.ü.M., *Date* 4 experiments between 25/11/2018 and 30/01/2019, *Temperature* min. -14°C, *Form Finding* experimental/mathematical/computational, *Shell Forces* according to experiment, *Building Material* Ice/Glasfibre Net, *Surface Area* max. 56.66 m2, *Ground Area* max. 41.4 m2, *Ice thickness* 2-32 mm, *Weight* max. 1050 kg, *Load* max. 90 kg// \n \n The Snow Formwork experiments were preceded by ‚The Ice Shell Project‘ together with Oliver Burch and Fabian Kuonen. Research was conducted on the possibility of building shell structures made of ice. \n \n A super-lightweight glassfibre net is used as stay in place formwork. With ropes this membrane is stretched between rebar arches, creating a complex geometry in-between. Once erected the net is sprayed with water creating a continuous ice surface. In the end the boundary conditions can be taken away and the ice shell stands on its own. \n \n Although in this case the end result is only temporary, it created an awareness that the natural condition of temperature can be integrated in a building process. We ask ourselves: Can we use the temporary nature to our advantage?"
       }
     ],
     [
@@ -1090,7 +1030,7 @@
           {
             "slideType": "image",
             "content": "K-01_IMG_5702.jpg",
-            "slideDescription": "In the third experiment a segment of a hyperbolic paraboloid is used as a shell form."
+            "slideDescription": "Ice shell, segment of a hyperbolic paraboloid, Obertschappina"
           },
           {
             "slideType": "image",
@@ -1137,7 +1077,7 @@
       },
       {
         "contentType": "text",
-        "content": "*#About* \n \n for questions contact@theaccurateinaccurate.com \n \n *Master Thesis ETH Zurich* Anthony Haag & Damian Ineichen \n \n *Studio Theriot* Professor Alexandre Theriot, Charlotte Truwant \n \n *Block Research Group* Professor Dr. Philippe Block, Francesco Ranaudo \n \n *Sponsors* Sika Schweiz AG, KFN Kalkfabrik Netstal AG \n \n *Institute for Building Materials* Lex Reiter \n \n *Host and Practical Advisor* Hannes Ineichen, Anneliese Moosberger, Corinne Grossert, Gemeinde Tschappina, Familie Schmid Blumer, Ausserglass \n \n *Helping Hands* Hannes Ineichen, Trine Tryggestad Berre, Basil Ineichen, Fabrizio Gmür, Oliver Burch \n \n *Programming* Tor Tryggestad Berre \n \n © 2018–2020 Architecture, Switzerland"
+        "content": "# #About \n \n for questions contact@theaccurateinaccurate.com \n \n *Master Thesis ETH Zurich* Anthony Haag & Damian Ineichen \n \n *Studio Theriot* Professor Alexandre Theriot, Charlotte Truwant \n \n *Block Research Group* Professor Dr. Philippe Block, Francesco Ranaudo \n \n *Sponsors* Sika Schweiz AG, KFN Kalkfabrik Netstal AG \n \n *Institute for Building Materials* Lex Reiter \n \n *Host and Practical Advisor* Hannes Ineichen, Anneliese Moosberger, Corinne Grossert, Gemeinde Tschappina, Familie Schmid Blumer, Ausserglass \n \n *Helping Hands* Hannes Ineichen, Trine Tryggestad Berre, Basil Ineichen, Fabrizio Gmür, Oliver Burch \n \n *Programming* Tor Tryggestad Berre \n \n © 2018–2020 Architecture, Switzerland"
       },
       {
         "contentType": "image",
