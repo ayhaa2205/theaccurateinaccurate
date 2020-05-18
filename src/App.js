@@ -46,6 +46,14 @@ function App() {
                 return <Image src={`images/${content}`}></Image>;
             case "video":
                 return <Video big={true} location={location} src={content}></Video>;
+            case "intro":
+                return <Link
+                    className={"intro__button"} to={`section-1`}
+                    spy={true} smooth={true}
+                    duration={800} onClick={() => setCurrentScrollIndex( 1)}
+                   >
+                    <Video intro={true} big={true} location={location} src={content}></Video></Link>;
+
         }
     };
 
@@ -63,18 +71,20 @@ function App() {
             }
             if (section.length === 2) {
                 return <div name={`section-${index}`} bp={"grid"} className={"section"}>
-                    <div className={"center"} bp={"6@md 12@sm"}>{getContentItemElement(section[0], "left")}</div>
-                    <div className={"center"} bp={"6@md 12@sm"}>{getContentItemElement(section[1], "right")}</div>
                     <Link className="hidden"
                           onSetActive={section => setCurrentScrollIndex(parseInt(section.split("-")[1]))}
                           to={`section-${index}`} spy={true} hashSpy={true}/>
+                    <div className={"center padright"} bp={"6@md 12@sm"}>{getContentItemElement(section[0], "left")}</div>
+                    <div className={"center padleft"} bp={"6@md 12@sm"}>{getContentItemElement(section[1], "right")}</div>
+
                 </div>;
             } else {
                 return <div name={`section-${index}`} bp={"grid"} className={"section"}>
-                    <div className={"center"} bp={"12"}>{getContentItemElement(section[0], "center")}</div>
                     <Link className="hidden"
                           onSetActive={section => setCurrentScrollIndex(parseInt(section.split("-")[1]))}
                           to={`section-${index}`} spy={true} hashSpy={true}/>
+                    <div className={"center"} bp={"12"}>{getContentItemElement(section[0], "center")}</div>
+
                 </div>;
             }
         });
@@ -82,22 +92,26 @@ function App() {
 
     return (
         <div className="App">
-            <div className={"logo"}> <Link  to={`section-0`}
+            <div className={"logo"} bp={"grid"}>
+                <div bp={12}>
+                <Link  to={`section-0`}
                                            spy={true} smooth={true}
                                            duration={800} onClick={() => setCurrentScrollIndex(0)}>
                 THE ACCURATE INACCURATE
             </Link></div>
+            </div>
 
             {renderLayout()}
-            <div className={"navigation"}>
-                {currentScrollIndex === 0 ? <div></div> :
-                    <Link activeClass="active" class={"navigation__button"} to={`section-${currentScrollIndex - 1}`}
+            <div bp={'grid'}
+                     className={"navigation"}>
+                {currentScrollIndex === 0 ? <div bp={'6 text-left'}></div> :
+                    <Link bp={'6 text-left'} activeClass="active" class={"navigation__button"} to={`section-${currentScrollIndex - 1}`}
                           spy={true} smooth={true}
                           duration={800} onClick={() => setCurrentScrollIndex(currentScrollIndex - 1)}>
                         Previous
                     </Link>}
-                {currentScrollIndex === layout.sections.length - 1 ? <div></div> :
-                    <Link activeClass="active" class={"navigation__button"} to={`section-${currentScrollIndex + 1}`}
+                {currentScrollIndex === layout.sections.length - 1 ? <div bp={'6 text-left'}></div> :
+                    <Link bp={'6 text-right'} activeClass="active" class={"navigation__button"} to={`section-${currentScrollIndex + 1}`}
                           spy={true} smooth={true}
                           duration={800} onClick={() => setCurrentScrollIndex(currentScrollIndex + 1)}>
                         Next
