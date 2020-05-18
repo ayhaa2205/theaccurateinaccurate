@@ -129,7 +129,7 @@
           {
             "slideType": "image",
             "content": "A-19_TestForceDiagrams.jpg",
-            "slideDescription": "Architecture is planning. A precise form for compression is planned in RhinoVAULT. For this the form is decomposed into a quadmesh."
+            "slideDescription": "Architecture is planning. A precise form for compression is planned in RhinoVAULT. For this purpose the form is decomposed into a quadmesh."
           },
           {
             "slideType": "image",
@@ -162,7 +162,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #experiment02 - Happy Accidents \n \n //*Location* Masein, *Height* 876 m.a.s.l., *Date* 10/10/2019, *Temperature* 8°C - 12°C, *Snow Source* TechnoAlpin SF210/Lenzerheide, *Form Finding* Intuitive, *Shell Forces* Compression/Tension/Bending, *Building Material* Gypsum// \n \n As a natural material snow is exposed to diverse environmental influences: Sun, wind, temperature, water, mechanical influences, colour - all these factors influence its form and make it subject to uncontrolled influences. It’s character isn’t complete controllability. It rather excels in simple manageability and the the possibility for the emergence of randomness. We want to take advantage of these opportunities in our project. With every material it is about identifying the chances that are given by its inherent properties. By using snow as formwork material for concrete shells we give the uncontrolled influence in our experiments. \n \n A second experiment is conducted to explore potentials of snow shaping. The thermal properties of snow are harnessed to use hot water as a shaping tool. As a natural process not all factors can always be controlled, which leaves room for accident and emergence. Because of the partly melting surface not all of the gypsum reacts with the air creating a rough and archaic surface."
+        "content": "# #experiment02 - Happy Accidents \n \n //*Location* Masein, *Height* 876 m.a.s.l., *Date* 10/10/2019, *Temperature* 8°C - 12°C, *Snow Source* TechnoAlpin SF210/Lenzerheide, *Form Finding* Intuitive, *Shell Forces* Compression/Tension/Bending, *Building Material* Gypsum// \n \n As a natural material snow is exposed to diverse environmental influences: Sun, wind, temperature, water, mechanical influences, colour - all these factors influence its form and make it subject to uncontrolled influences. It’s character isn’t complete controllability. It rather excels in simple manageability and possibility for the emergence of randomness. We want to take advantage of these opportunities in our project. With every material it is about identifying the chances that are given by its inherent properties. By using snow as formwork material for concrete shells we give the uncontrolled influence in our experiments. \n \n A second experiment is conducted to explore potentials of snow shaping. The thermal properties of snow are harnessed to use hot water as a shaping tool. As a natural process not all factors can always be controlled, which leaves room for accident and emergence. Because of the partly melting surface not all of the gypsum reacts with the air creating a rough and archaic surface."
       }
     ],
     [
@@ -224,17 +224,17 @@
           {
             "slideType": "image",
             "content": "C-01_IMG_3372.JPG",
-            "slideDescription": "Following the natural flow of forces shells can be very thin. Heinz Isler, Garden Center Bürgi, Tessin;"
+            "slideDescription": "Following the natural flow of forces shells can be very thin. Heinz Isler, Garden Center Bürgi, Tessin"
           },
           {
             "slideType": "image",
             "content": "C-02_IMG_3375.JPG",
-            "slideDescription": "This shell form was found observing the natural processes of the inversion of hanging models into compression forms. Heinz Isler, Garden Center Bürgi, Tessin;"
+            "slideDescription": "This shell form was found observing natural processes: A hanging model is inverted into a compression form. Heinz Isler, Garden Center Bürgi, Tessin"
           },
           {
             "slideType": "image",
             "content": "C-03_P1744886.jpg",
-            "slideDescription": "Another very thin shell of Heinz Isler, Chur;"
+            "slideDescription": "Another very thin shell of Heinz Isler, Chur"
           }
         ]
       },
@@ -244,7 +244,7 @@
           {
             "slideType": "image",
             "content": "C-04_IMG_9806.jpg",
-            "slideDescription": "Traditionally custom-made wood is used as formwork for shell constructions, Heinz Isler, Stone Church, Cazis, 1998, photo of visitor book;"
+            "slideDescription": "Traditionally custom-made wood is used as formwork for shell constructions, Heinz Isler, Stone Church, Cazis, 1998, photo of visitor book"
           }
         ]
       }
@@ -287,7 +287,7 @@
           {
             "slideType": "image",
             "content": "E-06_Bild-000040 Kopie.jpg",
-            "slideDescription": "Device for measuring compressive strength of a concrete sample"
+            "slideDescription": "Device for measuring the compressive strength of a concrete sample"
           },
           {
             "slideType": "video",
@@ -305,7 +305,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #experiment05 - Curtain Arch \n \n //*Location* Gadastatt, *Height* 1713 m.a.s.l., *Date* 07-08/11/2019, *Temperature* -0.5°C to 4°C, *Snow Source* Fresh Snow, *Form Finding* Parabola, *Shell Forces* Mostly Compression/Activation of full structural Depth through Tension Forces, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Material Volume* 45.9 l, *Weight* 109 kg// \n \n From the beginning there have been various auxiliary tools for designing shell constructions. First shells were planned with the help of basic mathematically defined forms: Cupolas, barrel vaults; These shapes can easily be described mathematically and therefore their complexity becomes manageable. Shell pioneers like Felix Candela introduced more complex mathematically defined forms like hyperbolic paraboloids. In this evolution Eduardo Torroja used simple principles for generating even more complex forms. Often these mathematically defined shapes appear very elegant. Since they follow a formation process our mind can understand their creation to a certain degree. \n \n To test the viability of the previous experiments a structural prototype is erected. The shape is created with a simple mathematical operation: A sinus curve is extruded along a parabola to create an arch. Under self-weight a catenary is the most efficient for for spanning a distance. However, since the goal is to stand on the structure, also asymmetrical loading cases have to be taken into account. The corrugation of the sinus curve adds structural depth to make the arch more stable for asymmetrical loading cases. This makes the arch more robust for inaccuracies of the formwork material as well. In this manner the slight difference between parabola and catenary can be neglected. \n \n With this method an arch spanning 1.8m with a height of 1m is constructed. The developed concrete mixture is used without any reinforcement. The finished arch is able to withstand the point load of two people of approximately 150 kg."
+        "content": "# #experiment05 - Curtain Arch \n \n //*Location* Gadastatt, *Height* 1713 m.a.s.l., *Date* 07-08/11/2019, *Temperature* -0.5°C to 4°C, *Snow Source* Fresh Snow, *Form Finding* Parabola, *Shell Forces* Mostly Compression/Activation of full structural Depth through Tension Forces, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Material Volume* 45.9 l, *Weight* 109 kg// \n \n From the beginning there have been various auxiliary tools for designing shell constructions. First shells were planned with the help of basic mathematically defined forms: Cupolas, barrel vaults; These shapes can easily be described mathematically and therefore their complexity becomes manageable. Shell pioneers like Felix Candela introduced more complex mathematically defined forms like hyperbolic paraboloids. In this evolution Eduardo Torroja used simple principles for generating even more complex forms. Often these mathematically defined shapes appear very elegant. Since they follow a formation process our mind can understand their creation to a certain degree. \n \n To test the viability of the previous experiments a structural prototype is erected. The shape is created with a simple mathematical operation: A sinus curve is extruded along a parabola to create an arch. Under self-weight a catenary is the most efficient for spanning a distance. However, since the goal is to stand on the structure, also asymmetrical loading cases have to be taken into account. The corrugation of the sinus curve adds structural depth to make the arch more stable for asymmetrical loading cases. This makes the arch more robust for inaccuracies of the formwork material as well. In this manner the slight difference between parabola and catenary can be neglected. \n \n With this method an arch spanning 1.8m with a height of 1m is constructed. The developed concrete mixture is used without any reinforcement. The finished arch is able to withstand the point load of two people of approximately 150 kg."
       }
     ],
     [
@@ -375,7 +375,7 @@
           {
             "slideType": "video",
             "content": "F-14_2020-05-13_CurtainArch-Concreting.mov",
-            "slideDescription": "If the mixture is adjusted properly concreting can be done at very steep surfaces."
+            "slideDescription": "If the mixture is adjusted properly concreting can be done on very steep surfaces."
           },
           {
             "slideType": "image",
@@ -470,7 +470,7 @@
           {
             "slideType": "image",
             "content": "F-21_IR001318.jpg",
-            "slideDescription": "A thermal image of the arch after concreting shows that the concrete is exposed to temperatures around -4°C."
+            "slideDescription": "A thermal image of the arch after concreting shows that the material is exposed to temperatures around -4°C."
           },
           {
             "slideType": "image",
@@ -483,7 +483,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #experiment06 - 1 to 100 \n \n //*Location* Oberurmein, *Height* 1526 m.a.s.l., *Date* 02/03/2020, *Temperature* -1°C, *Snow Source* Fresh Snow, *Form Finding* Intuitive, *Shell Forces* Compression/Tension, *Building Material* Snow// \n \n Snow it characterised by chances for randomness and accidents. There is a certain fascination for accidental formations, because we can’t fully comprehend how they are made in their complexity. In that sense these forms withdraw themselves partly from understanding. The human is not just a rational being, but also has irrational needs that need to be catered for. For this realm architecture has to provide spaces and stimuli. In traditional Japanese architecture crooked trees are used for construction to incorporate the poetic. This doesn’t follow pure needs of the construction. Also Eero Saarinen writes in his reflections about the expressive form that structural and rational can’t always be given precedence if other forms prove more beautiful. \n \n For this reason in a next experiment a different approach is tested: A snow pile is shaped intuitively as in a form of abstract painting. Nevertheless in building the intent of the human is always of importance, which is why the uncontrolled should be controlled. Only contemporary technology makes it possible to handle this uncontrolledness. With the help of a 3D-Laserscanner at any time the form can be recorded within minutes in millimetre precision. Therefore this form is then recorded with a pointcloud. With this the shape is transferred into the digital where further alterations are possible. In the digital scale is of minor importance and it is possible to analyse every shape structurally."
+        "content": "# #experiment06 - 1 to 100 \n \n //*Location* Oberurmein, *Height* 1526 m.a.s.l., *Date* 02/03/2020, *Temperature* -1°C, *Snow Source* Fresh Snow, *Form Finding* Intuitive, *Shell Forces* Compression/Tension, *Building Material* Snow// \n \n Snow is characterised by chances for randomness and accidents. There is a certain fascination for accidental formations, because we can’t fully comprehend how they are made in their complexity. In that sense these forms withdraw themselves partly from understanding. The human is not just a rational being, but also has irrational needs that need to be catered for. For this realm architecture has to provide spaces and stimuli. In traditional Japanese architecture crooked trees are used for construction to incorporate the poetic. This doesn’t follow pure needs of the construction. Also Eero Saarinen writes in his reflections about the expressive form that structural and rational can’t always be given precedence if other forms prove more beautiful. \n \n For this reason in a next experiment a different approach is tested: A snow pile is shaped intuitively as in a form of abstract painting. Nevertheless in building the intent of the human is always of importance, which is why the uncontrolled should be controlled. Only contemporary technology makes it possible to handle this uncontrolledness. With the help of a 3D-Laserscanner at any time the form can be recorded within minutes in millimetre precision. Therefore this form is then recorded with a pointcloud. With this the shape is transferred into the digital where further alterations are possible. In the digital scale is of minor importance and it is possible to analyse every shape structurally."
       }
     ],
     [
@@ -556,7 +556,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #experiment07 - Shell at a Rock \n \n //*Location* Tschappina, *Height* 1396 m.a.s.l., *Date* 25/03-06/04/2020, *Temperature* -8°C to 14°C, *Snow Source* Fresh Snow, *Form Finding* Iterative (Intuitive/Accidental/Computational), *Shell Forces* Mostly Compression/Tension/Bending, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Surface Area* 16.2 m2, *Weight* 1.7 t// \n \n In first experiments exact forms were thought digitally and then produced manually. In a next step we investigate thinking manually and producing digitally. A digital form can be the outcome or influence reality in a process. It is a starting point to rethink the relationship of the digital and mechanical. Chance and mathematical exactitude don’t exclude each other. Our design process corresponds to stochastic calculatory processes of contemporary computational networks or searching algorithms such as google: Markov-chains make it possible to find probable solutions for the future without knowing all elements precisely. \n \n A next experiment researches this process in full building scale: Snow is piled into a form. This form is recorded with a laser scanner. Translated into a mesh this form can be analysed structurally and afterwards altered in reality. This process is repeated until satisfaction. In an iterative process adapting, scanning, analysing take turns to find a form. The adaption is done by hand in the awareness that a quality of architecture can lie in the handcrafted, manually executed. Once a form is found concreting turns the shape from a negative into a positive. \n \n In this way processes come together that haven’t been combined before. The form is not only natural but also technical. Through this it withdraws itself partially from understanding and introduces a new quality of the mysterious combined with technology."
+        "content": "# #experiment07 - Shell at a Rock \n \n //*Location* Tschappina, *Height* 1396 m.a.s.l., *Date* 25/03-06/04/2020, *Temperature* -8°C to 14°C, *Snow Source* Fresh Snow, *Form Finding* Iterative (Intuitive/Accidental/Computational), *Shell Forces* Mostly Compression/Tension/Bending, *Building Material* Locally-sourced Gravel/Locally-sourced Sand/Water from Well/Other Materials as Industrial Products, *Surface Area* 16.2 m2, *Weight* 1.7 t// \n \n In first experiments exact forms were thought digitally and then produced manually. In a next step we investigate thinking manually and producing digitally. A digital form can be the outcome or influence reality as a step in a process. It is a starting point to rethink the relationship of the digital and mechanical. Chance and mathematical exactitude don’t exclude each other. Our design process corresponds to stochastic calculatory processes of contemporary computational networks or searching algorithms such as google: Markov-chains make it possible to find probable solutions for the future without knowing all elements precisely. \n \n A next experiment researches this process in full building scale: Snow is piled into a form. This form is recorded with a laser scanner. Translated into a mesh this form can be analysed structurally and afterwards altered in reality. This process is repeated until satisfaction. In an iterative process adapting, scanning, analysing take turns to find a form. The adaption is done by hand in the awareness that a quality of architecture can lie in the handcrafted, manually executed. Once a form is found concreting turns the shape from a negative into a positive. \n \n In this way processes come together that haven’t been combined before. The form is not only natural but also technical. Through this it withdraws itself partially from understanding and introduces a new quality of the mysterious combined with technology."
       }
     ],
     [
@@ -934,7 +934,7 @@
           {
             "slideType": "image",
             "content": "I-29_03_Shaded.jpg",
-            "slideDescription": "At every moment the shape can be compared to the idea of an intended form."
+            "slideDescription": "At every moment the shape can be compared to an intended form."
           },
           {
             "slideType": "image",
@@ -957,7 +957,7 @@
     [
       {
         "contentType": "text",
-        "content": "# #Natural Formations \n \n Since day one humans have been occupied with nature as a source of inspiration, as a goal as well as a challenge in its perfection. In many ways nature is a resource for the creative human, but also a counterpoint in his own work. \n \n This project is doing basic research about architectural design- and building processes. It uses natural materials for experiments to examine a relationship between the accurate and the inaccurate in today’s architecture. The goal is to explore spaces that reconciles constructional accuracy with mystery and intuition of natural processes as well as manual labour. Commonly the two are perceived as opposing players. Construction/Technology as an exact science that knows exactly one truth. In contrast nature is associated with the wild, uncontrolled, where, although following certain formation processes, randomness always plays a role. \n \n Step by step our experiments were oscillating between the worlds of the accurate and inaccurate: A first small-scale experiment was structurally optimised for compression forces in RhinoVault. Through measuring this form was more or less accurately recreated on site. For a next structural experiment inaccuracies were taken into account through incorporating structural redundancies. Further experiments developed a process of accurately measuring all inaccuracies to enable freedom and experiment. \n \n Our investigations are a starting point to think about the potential of materials, the digital in architecture and the relationship of construction and mysterious. We recognise architecture as a rational as well as an irrational endeavour that always needs to be negotiated between these two fields. A fascination for the precise, engineered is brought together with something that is handmade, formed by nature, something that is closer to the human, with imperfections."
+        "content": "# #Natural Formations \n \n Since day one humans have been occupied with nature as a source of inspiration, as a goal as well as a challenge in its perfection. In many ways nature is a resource for the creative human, but also a counterpoint in his own work. \n \n This project is doing basic research about architectural design- and building processes. It uses natural materials for experiments to examine a relationship between the accurate and the inaccurate in today’s architecture. The goal is to explore spaces that reconcile constructional accuracy with mystery and intuition of natural processes as well as manual labour. Commonly the two are perceived as opposing players. Construction/Technology as an exact science that knows exactly one truth. In contrast nature is associated with the wild, uncontrolled, where, although following certain formation processes, randomness always plays a role. \n \n Step by step our experiments were oscillating between the worlds of the accurate and inaccurate: A first small-scale experiment was structurally optimised for compression forces in RhinoVault. Through measuring this form was quite accurately recreated on site. For a next structural experiment inaccuracies were taken into account through incorporating structural redundancies. Further experiments developed a process of accurately measuring all inaccuracies to enable freedom and experiment. \n \n Our investigations are a starting point to think about the potential of materials, the digital in architecture and the relationship of construction and mysterious. We recognise architecture as a rational as well as an irrational endeavour that always needs to be negotiated between these two fields. A fascination for the precise, engineered is brought together with something that is handmade, formed by nature, something that is closer to the human, with imperfections."
       }
     ],
     [
@@ -1011,7 +1011,7 @@
         "content": [
           {
             "slideType": "video",
-            "content": "J-2020-05-15_StoneRotation_1000x750.mov",
+            "content": "00_2020-05-15_StoneRotation_975x675.mov",
             "slideDescription": "Ice Rendering, Principal Stress Lines, PointCloudScan, Silver Rendering of a Rock in the a stone quarry"
           }
         ]
@@ -1055,7 +1055,7 @@
           {
             "slideType": "image",
             "content": "K-05_Isolines.jpg",
-            "slideDescription": "To analyse the shell Iso-lines show the direction of constant stresses."
+            "slideDescription": "To analyse the shell iso-lines show the area of constant stresses."
           },
           {
             "slideType": "image",
