@@ -12,7 +12,7 @@ import ReactMarkdown from 'react-markdown';
 const layout = require("./layout.json");
 
 function App() {
-    let [currentScrollIndex, setCurrentScrollIndex] = useState(0);
+    let [currentScrollIndex, setCurrentScrollIndex] = useState(1);
 
     const tableOfContentParser=toc=>{
      let tocArray=toc.split(" ");
@@ -81,7 +81,6 @@ function App() {
             } else {
                 return <div name={`section-${index}`} bp={"grid"} className={"section"}>
                     <Link className="hidden"
-                          offset={20}
                           onSetActive={section => setCurrentScrollIndex(parseInt(section.split("-")[1]))}
                           to={`section-${index}`} spy={true} hashSpy={true}/>
                     <div className={"center"} bp={"12"}>{getContentItemElement(section[0], "center")}</div>
